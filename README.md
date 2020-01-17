@@ -1,2 +1,2 @@
 # least-laxity-first
-Operating systems project using the least laxity first algorithm
+Operating systems project for hotel reservations using the least laxity first algorithm
